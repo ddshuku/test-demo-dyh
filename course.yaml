@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "course_id": "course-87b60983-ecc",
+  "type": "official",
+  "title": "test_demo_dyh",
+  "description": "共创链接测试",
+  "lesson": "认识输入、权重与输出",
+  "theme": "neural",
+  "build_profile": "static",
+  "entry": "index.html"
+}
